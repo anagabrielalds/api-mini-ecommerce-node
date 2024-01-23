@@ -13,6 +13,9 @@ Intalação usando o npm e execução usando o nodemon
     nodemon .\bin\server.js
 ```
 
+## Deploy
+- O deploy da API foi realizado via https://vercel.com/ 
+- Para que o servidor da vercel consiga acessar o banco de dados do mongoDB é necessário usarmos a integração do Vercel com o MongoDB e pode ser realizado nas configurações do deploy dentro do próprio vercel
     
 ## Pré-requisitos
 
